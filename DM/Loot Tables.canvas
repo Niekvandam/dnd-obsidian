@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"63fddfc6448d7baa","type":"file","file":"DM/Files/Tarvern Loot Table.png","x":-540,"y":-600,"width":608,"height":680},
+		{"id":"19b6e197b731c750","type":"file","file":"DM/Files/Wizard tower loot table.png","x":100,"y":-600,"width":600,"height":687}
+	],
+	"edges":[]
+}

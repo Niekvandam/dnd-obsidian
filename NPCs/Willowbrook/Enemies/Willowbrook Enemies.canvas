@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"90af1a6cad57c06e","type":"file","file":"DM/Enemies/Specter.png","x":-420,"y":-360,"width":302,"height":400},
+		{"id":"6eda1bdef6305681","x":-80,"y":-360,"width":389,"height":400,"type":"file","file":"DM/Enemies/Goblin.png"}
+	],
+	"edges":[]
+}

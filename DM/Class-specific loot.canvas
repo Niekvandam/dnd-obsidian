@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"eb9d341e68467587","type":"file","file":"DM/Files/Fighter loot table.png","x":-360,"y":-560,"width":560,"height":420},
+		{"id":"e6e6c24cfc189c22","type":"file","file":"DM/Files/Barbarian loot table.png","x":-360,"y":-100,"width":560,"height":420},
+		{"id":"5f29735bed2663ef","type":"file","file":"DM/Files/Cleric loot table.png","x":240,"y":-560,"width":560,"height":420},
+		{"id":"56a4ec2c985d8c7a","type":"file","file":"DM/Files/Artificer loot table.png","x":240,"y":-100,"width":560,"height":420},
+		{"id":"d9d694411c43aa62","type":"file","file":"DM/Files/Wizard Loot Table.png","x":840,"y":-560,"width":560,"height":420},
+		{"id":"393e1cd8530c027e","type":"file","file":"DM/Files/Monk loot table.png","x":840,"y":-100,"width":560,"height":420},
+		{"id":"bae22bed77996405","type":"file","file":"DM/Files/Druid loot table.png","x":-360,"y":360,"width":560,"height":420},
+		{"id":"f3c4826e7b60ce61","type":"file","file":"DM/Files/Paladin loot table.png","x":240,"y":360,"width":560,"height":420},
+		{"id":"19b8fa869316c533","type":"file","file":"DM/Files/Sorcerer loot table.png","x":840,"y":360,"width":560,"height":420},
+		{"id":"88456d81d9f12338","type":"file","file":"DM/Files/Ranger loot table.png","x":-360,"y":840,"width":560,"height":420}
+	],
+	"edges":[]
+}

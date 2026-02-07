@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0794386191ef8266","type":"file","file":"DM/Files/Goblin loot table.png","x":-320,"y":-440,"width":696,"height":900},
+		{"id":"996c34b061553369","type":"file","file":"DM/Files/Loot the mimic.png","x":400,"y":-440,"width":513,"height":500}
+	],
+	"edges":[]
+}

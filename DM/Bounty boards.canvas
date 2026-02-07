@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ebf1bfc64e43a65e","type":"file","file":"DM/Files/Potion tester wanted.png","x":-320,"y":-500,"width":362,"height":400},
+		{"id":"462cd19a9a1976df","type":"file","file":"DM/Files/Mystery auction.png","x":-320,"y":-60,"width":400,"height":332},
+		{"id":"4c6ae8fd7d95c710","type":"file","file":"DM/Files/Is this your frog.png","x":80,"y":-500,"width":323,"height":399}
+	],
+	"edges":[]
+}

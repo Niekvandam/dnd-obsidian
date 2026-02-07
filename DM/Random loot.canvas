@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"730a28e532a9e353","type":"file","file":"DM/Files/Arrowless Bow.png","x":-360,"y":-560,"width":380,"height":485},
+		{"id":"fcaa397c18a3d273","type":"file","file":"DM/Files/Earring Aids.png","x":-360,"y":-60,"width":400,"height":400},
+		{"id":"db3a3c897d384a6c","type":"file","file":"DM/Files/Backpack of sharing.png","x":-760,"y":-560,"width":361,"height":897}
+	],
+	"edges":[]
+}

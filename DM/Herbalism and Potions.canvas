@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4b0b2780d8ad26a2","type":"file","file":"DM/Files/Meads ales and spirits.png","x":-640,"y":-460,"width":680,"height":680},
+		{"id":"48f8b3225aafabe2","type":"file","file":"DM/Files/Flasks 101.png","x":80,"y":-460,"width":760,"height":984}
+	],
+	"edges":[]
+}

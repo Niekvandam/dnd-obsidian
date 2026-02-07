@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"01edc4bb3d52e124","type":"file","file":"DM/Files/Weapon charms.png","x":-200,"y":-460,"width":680,"height":849},
+		{"id":"827f9127def33851","type":"file","file":"DM/Files/Weapon modifications.png","x":-894,"y":-460,"width":656,"height":849}
+	],
+	"edges":[]
+}

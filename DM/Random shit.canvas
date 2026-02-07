@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e219e0c05e42cd12","type":"file","file":"DM/Files/Spell size.png","x":-620,"y":-520,"width":220,"height":609},
+		{"id":"485c40af3679dfaf","type":"file","file":"DM/Files/Tavern fighting 101.png","x":-360,"y":-520,"width":480,"height":620},
+		{"id":"5d1b0393affd2ded","type":"file","file":"DM/Files/Forest encounters.png","x":-1472,"y":-520,"width":812,"height":609},
+		{"id":"1083c8e5abac2d26","type":"file","file":"DM/Files/Village encounters.png","x":-1472,"y":140,"width":812,"height":609},
+		{"id":"0f5e411129beba92","type":"file","file":"DM/Files/Plains encounters.png","x":-1472,"y":800,"width":812,"height":609},
+		{"id":"8b29791a851f80bf","type":"file","file":"DM/Files/Cave encounters.png","x":-2312,"y":800,"width":812,"height":609},
+		{"id":"a0fcfa154ca47b77","type":"file","file":"DM/Files/Random Characters.png","x":160,"y":-520,"width":420,"height":623},
+		{"id":"20ec71f20022cc53","type":"file","file":"DM/Files/Road encounters.png","x":-2200,"y":100,"width":660,"height":660},
+		{"id":"c3ca390809b2632d","type":"file","file":"DM/Enemies/Enormous Mimic.png","x":-600,"y":140,"width":602,"height":1304},
+		{"id":"3c0f013dbab3ec0e","type":"file","file":"DM/Enemies/Ladder Mimic.png","x":80,"y":140,"width":334,"height":460},
+		{"id":"30dd224e8da33b58","type":"file","file":"DM/Enemies/Barrel Mimic.png","x":435,"y":140,"width":334,"height":460},
+		{"id":"bb89a353b869a80f","type":"file","file":"DM/Files/Corridor Trap.png","x":640,"y":-520,"width":716,"height":609}
+	],
+	"edges":[]
+}

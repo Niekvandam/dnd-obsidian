@@ -1,0 +1,2 @@
+# Introduction to the world
+The players, after escaping from the beach near Willowbrook, arrive in Willowbrook during the Annual Harvest Festival. With little more than the clothes on their backs, they must find their footing in a world shrouded in Eternal Twilight.
